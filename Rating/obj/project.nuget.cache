@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8UgdqYdg7lZcfGYyKP6/tP1H5DTAA/IGus1FY9/yzkFv9IE8L5+sbjtjm94uQ3PTaRF8m6j+ThcRsEVmW+3PtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\REYHAN\\C# PROJECTS\\RatingApp\\Rating\\Rating\\Rating.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\REYHAN\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "C:\\Users\\REYHAN\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\REYHAN\C# PROJECTS\RatingApp\Rating\Rating.Contracts\bin\Debug\net7.0\Rating.Contracts.deps.json
+C:\Users\REYHAN\C# PROJECTS\RatingApp\Rating\Rating.Contracts\bin\Debug\net7.0\Rating.Contracts.dll
+C:\Users\REYHAN\C# PROJECTS\RatingApp\Rating\Rating.Contracts\bin\Debug\net7.0\Rating.Contracts.pdb
+C:\Users\REYHAN\C# PROJECTS\RatingApp\Rating\Rating.Contracts\obj\Debug\net7.0\Rating.Contracts.csproj.AssemblyReference.cache
+C:\Users\REYHAN\C# PROJECTS\RatingApp\Rating\Rating.Contracts\obj\Debug\net7.0\Rating.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\REYHAN\C# PROJECTS\RatingApp\Rating\Rating.Contracts\obj\Debug\net7.0\Rating.Contracts.AssemblyInfoInputs.cache
+C:\Users\REYHAN\C# PROJECTS\RatingApp\Rating\Rating.Contracts\obj\Debug\net7.0\Rating.Contracts.AssemblyInfo.cs
+C:\Users\REYHAN\C# PROJECTS\RatingApp\Rating\Rating.Contracts\obj\Debug\net7.0\Rating.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\REYHAN\C# PROJECTS\RatingApp\Rating\Rating.Contracts\obj\Debug\net7.0\Rating.Contracts.dll
+C:\Users\REYHAN\C# PROJECTS\RatingApp\Rating\Rating.Contracts\obj\Debug\net7.0\refint\Rating.Contracts.dll
+C:\Users\REYHAN\C# PROJECTS\RatingApp\Rating\Rating.Contracts\obj\Debug\net7.0\Rating.Contracts.pdb
+C:\Users\REYHAN\C# PROJECTS\RatingApp\Rating\Rating.Contracts\obj\Debug\net7.0\ref\Rating.Contracts.dll
